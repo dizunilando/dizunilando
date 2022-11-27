@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dizunilando
+- 👋 Hi, I’m Dizunilando!
 - 👀 I’m interested in Web & Google Development
 - 🌱 I’m currently learning Python Programming Language
 - 💞️ I’m looking to collaborate on Python Community  
